@@ -19,7 +19,7 @@ Exact run times may vary from machine to machine.
 1. Clone repo into a working directory
 
 ```bash
-git clone https://github.com/mcknijak/PPL-arrayPassingHW.git
+git clone https://github.com/mcknijak/PPL-HW3.git
 ```
 
 2. Use `chmod` to allow run permissions on the `arrayPassingScript.sh` file.
